@@ -1,4 +1,3 @@
-A darker variation of One Dark Pro theme for Visual Studio Code, with Monokai code coloring.
 
 ## Installation
 
