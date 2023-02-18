@@ -3,7 +3,7 @@
 
 Press `ctrl/command + shift + p` to launch the command palette, then run:
 ```
-ext install dark-forest
+>open extension folder    then put theme folder there
 ```
 
 ## Working with Markdown
